@@ -57,7 +57,7 @@ Six pages, each built around one question:
 - Cost Structure: where the money goes, and how to cut the shipping subsidy
 - Scenario Simulator: an interactive tool for testing your own cost assumptions
 
-Live demo: add your Streamlit Community Cloud link here once deployed.
+Live demo: (https://portofolio-dq59hxy3hjxwxbvek8m6us.streamlit.app/)
 
 ## Built with
 
