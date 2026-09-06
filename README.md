@@ -70,6 +70,6 @@ the business question, building the financial model across three cost scenarios,
 shipping it as a deployed, interactive dashboard. Every chart on every page exists to
 answer a specific question a store owner would actually ask, not to look impressive.
 
-Fidyah Kumala Puspa Ratih
+Puspa Ratih
 edupuspa@gmail.com
 https://linkedin.com/in/puspa-ratih-6a5a683b0
