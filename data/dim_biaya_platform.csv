@@ -1,0 +1,11 @@
+Platform,Komponen_Biaya,Persen_Min,Persen_Max,Biaya_Tetap_Rp,Berlaku_Sejak,Catatan
+Shopee,Komisi/admin per kategori,2.5,10.0,,2026,Naik dibanding tarif 2025
+Shopee,Biaya proses pesanan,,,1250.0,2026,Per pesanan
+Shopee,Biaya tetap tambahan,,,5.0,2026,Nominal kecil per transaksi
+Shopee,Biaya iklan (opsional),5.0,15.0,,2026,Menambah total potongan jika seller pakai iklan
+Tokopedia/TikTok Shop,Komisi/admin per kategori,2.5,12.2,,2026,Efektif sekitar 8% setelah diskon di kategori bertarif 10%
+Tokopedia/TikTok Shop,Cap Komisi Dinamis per item,,,650000.0,18 Mei 2026,Naik drastis dari cap lama Rp40.000/item - dampak besar untuk produk mahal
+Lazada,Komisi per kategori,,,,Revisi Februari 2026,Tarif bervariasi per kategori
+Lazada,Cap komisi per item,,,,Revisi Februari 2026,Direvisi Februari 2026
+Website sendiri (payment gateway),Biaya transaksi,2.5,2.5,,2026,"Jauh lebih rendah dibanding marketplace, tanpa komisi kategori/iklan wajib"
+Rata-rata potongan riil marketplace,Total potongan (komisi+iklan wajib untuk visibilitas),15.0,25.0,,2026,Dibandingkan ~2.5% jika jualan lewat website sendiri

@@ -1,0 +1,38 @@
+Kategori_Produk_Toko,Jumlah_Order,Total_Nilai_Terkait_Rp,Tier_Tarif_Shopee_Default,Persen_Komisi_Default,Perlu_Validasi_User,Catatan
+Celengan,5115,160153603,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Mangkok Sambal / Saus,3266,135449880,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Aksesoris Pintu,2647,42410561,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Nampan / Tray,1177,101559220,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Baskom / Mangkok Besar,624,49654089,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Seal / Baut / Roof,565,275051712,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Keranjang,484,20479725,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Other,447,43800606,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Lunch Box / Rantang,435,48694496,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Rak / Rak Serbaguna,411,32375070,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Tempat Nasi,362,11232742,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Botol / Gelas / Mug,331,14525163,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Saringan / Strainer,249,7815132,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Peralatan Kamar Mandi,180,4094158,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Teko / Jug,166,8655799,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Peralatan Makan,164,11335085,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Bangku / Kursi Kecil,134,5017461,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Piring,110,7953420,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Pengolah Bumbu / Sayur,109,8402949,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Toples / Sealware,104,5582658,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Plastik / Wadah Plastik,95,5367772,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Stempel / Alat Kantor,92,6794864,Kategori E (perkiraan),4.25,True,Perlu validasi - kategori Alat Tulis/Kantor
+Perlengkapan Packing,91,16263115,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Gantungan Baju / Hanger,81,4726901,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Pisau / Alat Potong,77,4979092,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Aksesoris ID Card,56,3794387,Kategori E (perkiraan),4.25,True,"Perlu validasi - kemungkinan Alat Tulis/Kantor, bisa masuk tarif lebih rendah"
+Gayung,55,1256218,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Aksesoris Mandi,46,2431569,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Cobek / Ulekan,35,2790861,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Mangkok,16,945806,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Spatula,12,303544,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Sapu / Pembersih Lantai,11,444062,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Talenan,11,296614,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Sikat / Pembersih,4,203600,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Perkakas,3,535260,Kategori B (perkiraan),9.0,True,"Perlu validasi - bisa masuk Perkakas/Tools, bukan Rumah Tangga umum"
+Pot Tanaman / Bunga,2,59178,Kategori A,10.0,False,Default: Perlengkapan Rumah Tangga
+Aksesoris Motor,1,114362,Kategori B (perkiraan),9.0,True,Perlu validasi - kemungkinan Otomotif/Aksesoris (bukan Rumah Tangga)
